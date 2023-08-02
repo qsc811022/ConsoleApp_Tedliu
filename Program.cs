@@ -48,16 +48,56 @@
             //Console.WriteLine($"對調的結果: number1={number1}, number2={number2}");
 
 
-            for (int i = 1; i <=9; i++)
-            {
-                for(int j = 1; j <=9; j++)
-                {
-                    Console.WriteLine(i+"*"+j+"="+i*j);
-                }
-                Console.WriteLine();
-            }
+            //for (int i = 1; i <=9; i++)
+            //{
+            //    for(int j = 1; j <=9; j++)
+            //    {
+            //        Console.WriteLine(i+"*"+j+"="+i*j);
+            //    }
+            //    Console.WriteLine();
+            //}
+            //int facter=13;
+            //for (int i = 0; i <=100; i++)
+            //{
+
+
+            //}
+
+            //Console.WriteLine("Enter First Number");
+            //int num=Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter Second Number");
+            //int num2=Convert.ToInt32(Console.ReadLine());
+
+            //if (num>num2)
+            //{
+            //    Console.WriteLine("");
+            //}
+            //else 
+            //{
+            //    Console.WriteLine("XXX");
+            //}
+
+            //for (int i = 0; i <=5; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            //int n = 0;
+            //while(n<5)
+            //{
+            //    Console.WriteLine("");
+            //    n=Convert.ToInt32(Console.ReadLine());
+
+
+            //    n++;
+            //}
+
+
 
 
         }
+
+
     }
 }
